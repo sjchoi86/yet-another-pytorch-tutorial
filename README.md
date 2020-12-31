@@ -1,2 +1,6 @@
-# upstage-basic-deeplearning
-Yet Another PyTorch Tutorial
+# Yet Another PyTorch Tutorial
+
+- MLP
+- CNN
+- Linear Regression
+- LSTM
