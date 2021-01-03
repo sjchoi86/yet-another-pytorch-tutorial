@@ -6,6 +6,7 @@
 - Linear Regression [notebook](https://github.com/sjchoi86/yet-another-pytorch-tutorial/blob/main/notebook/optm.ipynb)
 - LSTM [notebook](https://github.com/sjchoi86/yet-another-pytorch-tutorial/blob/main/notebook/lstm.ipynb)
 - Multi-Headed Attention [notebook](https://github.com/sjchoi86/yet-another-pytorch-tutorial/blob/main/notebook/mha.ipynb)
+- Mixture Density Network [notebook](https://github.com/sjchoi86/yet-another-pytorch-tutorial/blob/main/notebook/mdn.ipynb)
 
 #### Special Thanks to [Jerry](https://github.com/jjerry-k).
 
